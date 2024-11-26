@@ -1,0 +1,1128 @@
+le
+de
+un
+être
+et
+à
+il
+avoir
+ne
+je
+son
+que
+se
+qui
+ce
+dans
+en
+du
+elle
+au
+de
+ce
+le
+pour
+pas
+que
+vous
+par
+sur
+faire
+plus
+dire
+me
+on
+mon
+lui
+nous
+comme
+mais
+pouvoir
+avec
+tout
+y
+aller
+voir
+en
+bien
+où
+sans
+tu
+ou
+leur
+homme
+si
+deux
+mari
+moi
+vouloir
+te
+femme
+venir
+quand
+grand
+celui
+si
+notre
+devoir
+là
+jour
+prendre
+même
+votre
+tout
+rien
+petit
+encore
+aussi
+quelque
+dont
+tout
+mer
+trouver
+donner
+temps
+ça
+peu
+même
+falloir
+sous
+parler
+alors
+main
+chose
+ton
+mettre
+vie
+savoir
+yeux
+passer
+autre
+après
+regarder
+toujours
+puis
+jamais
+cela
+aimer
+non
+heure
+croire
+cent
+commencement
+corde
+secrétaire
+vaincre
+saison
+précieux
+précis
+consulter
+haïr
+repousser
+paupière
+certainement
+tapis
+noire
+chasse
+exécuter
+nerveux
+nul
+commun
+exposer
+clef
+claire
+voyager
+haute
+renverser
+sueur
+âgé
+ferme
+rassurer
+retomber
+décrire
+mentir
+instinct
+armer
+paquet
+drame
+absolu
+savoir
+mine
+vision
+étaler
+sentier
+demain
+beau
+blond
+essuyer
+planche
+précéder
+dehors
+salut
+tâche
+désigner
+fin
+abri
+détacher
+recueillir
+rencontre
+croiser
+entretenir
+rouge
+professeur
+surveiller
+visible
+perdu
+réserver
+bas
+lien
+queue
+bande
+confondre
+grain
+mensonge
+dégager
+probablement
+illusion
+incapable
+parer
+épreuve
+immédiatement
+attente
+visiter
+instrument
+évidemment
+auparavant
+détourner
+explication
+régulier
+reproche
+souci
+plier
+extrême
+accueillir
+juif
+leçon
+redevenir
+approuver
+parfait
+emparer
+aborder
+heurter
+tel
+noyer
+semer
+ferme
+manche
+rage
+gré
+guider
+piquer
+Meilleur
+Noms
+
+800	chemise
+799	siège
+797	as
+797	patron
+796	calme
+795	printemps
+793	angoisse
+788	habitant
+784	métier
+782	note
+777	fusil
+771	agent
+760	roman
+759	plante
+746	réflexion
+740	accent
+735	repas
+731	étendue
+729	secours
+724	corde
+718	saison
+700	paupière
+695	tapis
+691	chasse
+686	clef
+677	sueur
+675	ferme
+669	instinct
+667	paquet
+666	drame
+661	savoir
+660	mine
+660	vision
+658	sentier
+657	demain
+650	planche
+649	dehors
+647	salut
+646	tâche
+642	abri
+636	rencontre
+633	rouge
+618	lien
+615	queue
+608	bande
+605	grain
+603	mensonge
+
+Verbes
+
+801	contenter
+795	mériter
+791	précipiter
+791	rompre
+784	caresser
+783	étouffer
+782	animer
+778	casser
+763	fonder
+759	franchir
+754	abattre
+754	discuter
+748	fatiguer
+745	consentir
+731	regretter
+730	joindre
+720	vaincre
+712	consulter
+709	haïr
+701	repousser
+690	exécuter
+689	exposer
+683	voyager
+680	renverser
+675	rassurer
+674	retomber
+672	décrire
+670	mentir
+667	armer
+659	étaler
+651	essuyer
+650	précéder
+644	désigner
+641	détacher
+638	recueillir
+634	croiser
+633	entretenir
+627	surveiller
+622	réserver
+608	confondre
+602	dégager
+351960	être
+248488	avoir
+77608	faire
+72134	dire
+55394	pouvoir
+41702	aller
+39659	voir
+29435	vouloir
+26023	venir
+22703	devoir
+20489	prendre
+16833	trouver
+16795	donner
+16078	falloir
+15814	parler
+15339	mettre
+15102	savoir
+14976	passer
+14604	regarder
+14138	aimer
+13881	croire
+12597	demander
+12155	rester
+12063	répondre
+12009	entendre
+10358	penser
+10288	arriver
+9769	connaître
+9759	devenir
+9585	sentir
+9482	sembler
+9312	tenir
+9037	comprendre
+9002	rendre
+8851	attendre
+8768	sortir
+7625	vivre
+7614	entrer
+7544	reprendre
+7499	porter
+7304	chercher
+7114	revenir
+6892	appeler
+6785	mourir
+6726	partir
+6610	jeter
+6397	suivre
+6256	écrire
+6195	montrer
+6182	tomber
+6169	ouvrir
+5812	arrêter
+5786	perdre
+5783	commencer
+5779	paraître
+5747	marcher
+5494	lever
+5467	permettre
+5417	asseoir
+5216	écouter
+5088	monter
+4904	apercevoir
+4891	recevoir
+4806	servir
+4709	finir
+4662	rire
+4449	crier
+4447	jouer
+4371	tourner
+4272	garder
+4198	reconnaître
+4180	quitter
+4127	manger
+4059	courir
+4022	continuer
+3965	oublier
+3955	descendre
+3920	cacher
+3841	poser
+3778	tirer
+3757	présenter
+3755	ajouter
+3753	agir
+3717	retrouver
+3671	offrir
+3616	apprendre
+3598	tuer
+3559	retourner
+3556	rencontrer
+3482	envoyer
+3438	dormir
+3422	pousser
+3362	rappeler
+3340	lire
+3258	changer
+3254	essayer
+3248	compter
+3245	occuper
+3238	expliquer
+3161	frapper
+3133	travailler
+3124	obtenir
+3099	rentrer
+3096	pleurer
+3079	répéter
+3056	payer
+3053	apporter
+2944	exister
+2937	boire
+2904	sourire
+2889	coucher
+2825	causer
+2794	raconter
+2792	serrer
+2792	songer
+2787	manquer
+2754	nommer
+2735	conduire
+2729	saisir
+2709	demeurer
+2700	remettre
+2689	disparaître
+2678	battre
+2670	toucher
+2645	apparaître
+2635	souffrir
+2590	fermer
+2585	accepter
+2569	tendre
+2555	naître
+2554	sauver
+2544	avancer
+2522	traverser
+2508	souvenir
+2491	couvrir
+2485	gagner
+2481	former
+2477	plaire
+2458	embrasser
+2454	oser
+2427	empêcher
+2420	refuser
+2415	décider
+2401	produire
+2389	charger
+2385	mêler
+2371	espérer
+2349	cesser
+2349	ressembler
+2332	chanter
+2272	approcher
+2265	prier
+2240	échapper
+2239	glisser
+2225	briller
+2218	brûler
+2214	placer
+2202	juger
+2201	suffire
+2190	atteindre
+2146	annoncer
+2135	élever
+2134	acheter
+2133	mener
+2133	préparer
+2118	assurer
+2095	deviner
+2092	considérer
+2069	appartenir
+2067	représenter
+2065	tromper
+2056	vendre
+2047	craindre
+2035	emporter
+1951	exprimer
+1939	rouler
+1931	posséder
+1921	réveiller
+1918	aider
+1918	découvrir
+1912	choisir
+1905	prononcer
+1904	taire
+1886	rêver
+1884	appuyer
+1884	étendre
+1880	trembler
+1864	défendre
+1856	créer
+1853	maintenir
+1814	indiquer
+1812	promettre
+1810	relever
+1809	abandonner
+1797	ignorer
+1769	accompagner
+1763	adresser
+1757	observer
+1753	séparer
+1752	marier
+1751	prévoir
+1731	amener
+1729	obliger
+1720	éclairer
+1719	poursuivre
+1717	livrer
+1696	contenir
+1688	fuir
+1687	couler
+1676	proposer
+1673	éprouver
+1667	retenir
+1645	attacher
+1642	voler
+1636	entraîner
+1633	surprendre
+1601	briser
+1596	imaginer
+1593	diriger
+1581	parvenir
+1574	pénétrer
+1569	remarquer
+1568	éviter
+1556	établir
+1553	réussir
+1550	pencher
+1547	habiter
+1546	entourer
+1544	déclarer
+1535	étonner
+1528	dresser
+1528	durer
+1527	fixer
+1512	désirer
+1503	arracher
+1501	soutenir
+1499	couper
+1497	examiner
+1488	douter
+1487	retirer
+1460	promener
+1447	forcer
+1436	revoir
+1420	remplir
+1419	terminer
+1397	tenter
+1389	remonter
+1383	installer
+1375	soulever
+1373	allumer
+1373	imposer
+1371	respirer
+1370	baisser
+1363	souffler
+1348	attirer
+1344	prêter
+1329	amuser
+1323	éclater
+1314	réunir
+1310	traiter
+1309	engager
+1293	traîner
+1290	employer
+1285	marquer
+1285	prouver
+1284	importer
+1279	exiger
+1277	reposer
+1275	danser
+1268	saluer
+1264	accorder
+1262	achever
+1262	avouer
+1261	distinguer
+1261	emmener
+1238	agiter
+1232	hésiter
+1221	sonner
+1217	composer
+1215	enlever
+33202	homme
+30082	mari
+26148	femme
+22232	jour
+17166	mer
+16785	temps
+15540	main
+15524	chose
+15241	vie
+14981	yeux
+13940	heure
+13737	monde
+13348	enfant
+13191	fois
+12274	moment
+11999	tête
+11854	père
+11842	fille
+11312	coeur
+11274	an
+10786	terre
+10661	dieu
+10489	monsieur
+10469	voix
+10287	maison
+9991	coup
+9755	air
+9752	mot
+9694	nuit
+9603	eau
+8744	ami
+8649	porte
+8283	amour
+8040	pied
+7944	gens
+7795	nom
+7451	pays
+7433	ciel
+7415	frère
+7399	regard
+7255	âme
+7245	côté
+7182	mort
+7031	esprit
+6983	ville
+6923	rue
+6877	soir
+6835	chambre
+6751	pas
+6692	soleil
+6588	roi
+6489	état
+6425	corps
+6304	bras
+6178	place
+6102	parti
+6004	année
+5954	visage
+5946	bruit
+5946	lettre
+5922	franc
+5861	fond
+5835	force
+5829	effet
+5706	milieu
+5702	saint
+5686	idée
+5623	travail
+5622	lumière
+5527	mois
+5520	fils
+5481	raison
+5416	point
+5391	personne
+5349	peuple
+5343	fait
+5295	parole
+5273	guerre
+5214	pensée
+5179	affaire
+5145	matin
+5127	pierre
+5002	vent
+4977	doute
+4969	front
+4939	ombre
+4932	part
+4916	maître
+4908	besoin
+4908	question
+4859	peine
+4836	tour
+4705	famille
+4653	madame
+4635	sorte
+4618	figure
+4595	droit
+4574	peur
+4571	bout
+4554	lieu
+4541	silence
+4503	chef
+4460	bois
+4457	mari
+4451	histoire
+4429	feu
+4271	partie
+4236	face
+4231	mouvement
+4217	fin
+4155	route
+4097	livre
+4070	arbre
+4058	cas
+4034	mur
+4028	ordre
+3994	est
+3978	bonheur
+3922	intérêt
+3876	argent
+3856	cause
+3825	travers
+3809	grand
+3807	instant
+3784	façon
+3783	oeil
+3763	forme
+3711	chemin
+3704	cheveu
+3656	plaisir
+3639	suite
+3571	sang
+3548	sentiment
+3516	fleur
+3498	service
+3472	table
+3446	paix
+3444	moyen
+3410	lit
+3387	voiture
+3345	être
+3335	nature
+3326	or
+3309	pouvoir
+3307	nouveau
+3292	joie
+3272	président
+3266	bouche
+3256	petit
+3245	sens
+3240	cri
+3238	espèce
+3237	cheval
+3236	loi
+3145	ministre
+3079	société
+3071	politique
+3063	oreille
+3046	fenêtre
+3010	fortune
+3002	compte
+2979	champ
+2961	manier
+2942	action
+2914	garçon
+2906	exemple
+2890	couleur
+2875	papier
+2861	mal
+2820	pièce
+2818	montagne
+2812	sol
+2811	oeuvre
+2797	cours
+2790	désir
+2776	cour
+2753	bord
+2749	douleur
+2732	salle
+2722	premier
+2715	projet
+2701	étude
+2699	journal
+2697	geste
+2664	situation
+2661	oiseau
+2647	siècle
+2633	million
+2616	prix
+2612	groupe
+2610	centre
+2603	malheur
+2602	honneur
+2575	garde
+2547	problème
+2546	larme
+2539	chien
+2534	peau
+2530	reste
+2517	nombre
+2514	mesure
+2507	article
+2502	vue
+2490	âge
+2483	système
+2482	long
+2468	effort
+2455	rêve
+2448	passion
+2426	rapport
+2398	soldat
+2397	lèvre
+2397	signe
+2390	vérité
+2386	mariage
+2365	plan
+2348	dos
+2341	marche
+2334	souvenir
+2333	dame
+2318	conseil
+2314	sou
+2306	coin
+2303	jardin
+2289	doigt
+2288	objet
+2284	fer
+2281	lendemain
+2259	train
+2256	papa
+2252	valeur
+2247	jeu
+2234	secret
+2233	haut
+2226	vieillard
+2222	docteur
+2213	ton
+2204	jambe
+2194	endroit
+2192	minute
+2190	nuage
+2187	présence
+2163	épaule
+2155	feuille
+2155	liberté
+2149	journée
+2143	avenir
+2142	sourire
+2136	résultat
+2125	hôtel
+2124	semaine
+2122	forêt
+2116	qualité
+2108	prince
+2101	bien
+2093	médecin
+2087	volonté
+2086	seigneur
+2077	art
+2070	foule
+2068	ligne
+2061	intérieur
+2054	beauté
+2025	soin
+2017	hasard
+2006	condition
+1997	classe
+1996	voyage
+1955	présent
+Adjectifs
+47221	tout
+25388	grand
+19008	petit
+16081	même
+14688	autre
+13104	seul
+12593	jeune
+11731	premier
+11483	bon
+10343	quel
+9870	beau
+9515	vieux
+7038	noir
+7019	nouveau
+6650	dernier
+6246	blanc
+6059	cher
+5562	long
+5434	pauvre
+5413	plein
+5385	vrai
+5258	toute
+5087	bas
+4537	gros
+4355	doux
+4332	heureux
+3953	haut
+3878	profond
+3576	rouge
+3393	humain
+3337	général
+3299	français
+3250	froid
+3234	sombre
+3211	sûr
+3190	ancien
+3125	propre
+3054	politique
+3013	possible
+2948	immense
+2929	public
+2914	pareil
+2906	bleu
+2851	fort
+2717	entier
+2704	simple
+2654	nécessaire
+2570	mauvais
+2510	social
+2416	important
+2380	certain
+2307	triste
+2301	joli
+2254	différent
+
+
+Adverbes
+186755	ne
+103083	pas
+75499	plus
+37171	bien
+32024	si
+22695	là
+19994	même
+19915	tout
+19176	encore
+18311	aussi
+16251	peu
+15639	alors
+14336	toujours
+14255	jamais
+14039	non
+12432	très
+11296	ainsi
+9472	moins
+9098	ici
+9005	oui
+8686	trop
+8170	déjà
+7960	tant
+7126	enfin
+7024	maintenant
+6399	beaucoup
+6090	assez
+5996	loin
+5961	point
+5662	presque
+5629	ailleurs
+5544	seulement
+4915	aujourd'hui
+4881	mieux
+4764	autour
+4665	souvent
+4657	dessus
+4355	longtemps
+4350	fort
+4324	comme
+4163	comment
+3834	autant
+3783	d'abord
+3669	surtout
+3508	cependant
+3465	vite
+3281	tard
+3271	pourtant
+3223	ci
+3097	mal
+3076	parfois
+2960	vraiment
+2839	bientôt
+2810	partout
+2515	debout
+2328	plutôt
+2281	lentement
+2280	combien
+2141	hier
+
+
+Conjonctions
+362093	et
+176161	que
+59902	comme
+57690	mais
+34897	ou
+25592	quand
+24024	si
+14257	puis
+13562	donc
+11695	car
+11640	ni
+7824	parce que
+4700	pourquoi
+4041	lorsque
+3189	tandis que
+3139	puisque
+2721	comment
+2297	soit
+1940	or
+
+
+Déterminants
+1050561	le
+419564	un
+181161	son
+141389	ce
+127384	du
+123502	au
+119106	de
+70121	mon
+33950	leur
+23883	notre
+19942	votre
+17953	quelque
+15513	ton
+12051	tout
+8419	chaque
+5774	aucun
+5505	tel
+3667	certain
+3480	plusieurs
+2865	d'autres
+690	nul
+
+Numéraux
+30211	deux
+13798	cent
+11758	mille
+11372	trois
+10970	quatre
+8920	vingt
+6723	cinq
+6609	dix
+5508	neuf
+4463	six
+4052	huit
+3289	sept
+2809	trente
+2073	quarante
+2072	cinquante
+2000	quinze
+1591	douze
+1390	un
+
+Prépositions
+862100	de
+293083	à
+143565	en
+139185	dans
+104779	pour
+82277	par
+80180	sur
+55081	avec
+35915	sans
+15944	sous
+14606	après
+13684	entre
+12781	vers
+12698	chez
+12465	jusque
+10692	contre
+9995	devant
+8907	depuis
+8202	pendant
+7425	avant
+6054	voilà
+4731	près
+4141	dès
+3612	malgré
+3191	voici
+3134	selon
+3019	derrière
+2547	parmi
+2452	afin de
+1955	auprès
+1470	quant à
+1390	hors
+1256	durant
+1078	grâce
+788	plein
+
+Pronoms
+270395	il
+184186	je
+168684	se
+148392	qui
+126397	elle
+107074	ce
+105873	le
+99412	que
+89623	vous
+71086	me
+70246	on
+65988	lui
+62554	nous
+46031	y
+38935	en
+36089	où
+35774	tu
+30053	moi
+28542	te
+24270	celui
+19379	rien
+17797	dont
+17486	tout
+16494	ça
+14253	cela
+13063	autre
+10941	un
+8997	toi
+8574	lequel
+6078	leur
+5152	quoi
+4164	personne
+3910	l'un
+3890	chacun
+2440	auquel
+1838	quelqu'un
+1734	d'autres
+1706	ceci
+1587	l'une
+1322	soi
+1162	sien
+1099	mien
+1078	aucun
